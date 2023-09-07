@@ -4,7 +4,7 @@
 
 - [Foreword](0/0.md)
 
-# Basic
+# Basics
 - [Knowledge](1/0.md)
   - [Why is EP different?](1/1.md)
   - [Basic concepts](1/2.md)
