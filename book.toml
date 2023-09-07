@@ -1,0 +1,15 @@
+[book]
+authors = ["Team Cloudchaser"]
+language = "en"
+multilingual = false
+src = "src"
+title = "EPs for Foals"
+description = "Teaching EPs to foals alike."
+
+[build]
+build-dir = "book"
+
+[output.html]
+site-url = "/"
+default-theme = "coal"
+preferred-dark-theme = "ayu"
