@@ -3,5 +3,10 @@
 [Cover](README.md)
 
 - [Foreword](0/0.md)
-- [Basic](1/0.md)
-  - [Concepts](1/1.md)
+- [Knowledge](1/0.md)
+  - [Why is EP different?](1/1.md)
+  - [Basic concepts](1/2.md)
+  - [Terminologies](1/3.md)
+- [Basic hooves-on setup](2/0.md)
+  - [Xray]()
+  - [Sing Box]()
